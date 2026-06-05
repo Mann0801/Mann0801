@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Mann0801/Mann0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mann, a Computer Science Engineering student from Bengaluru, India.
 
-Here are some ideas to get you started:
+Interested in systems programming, open source, AI, and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+C • C++ • Python • Git • Fedora Linux
+
+### What I do
+- Open-source contributions
+- Personal projects
+- DSA practice
+- AI experiments
+
+### Outside coding
+⚽ Football • 🏀 Basketball • 🖥️ PC Hardware
