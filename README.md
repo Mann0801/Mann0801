@@ -16,4 +16,4 @@ C • C++ • Python • Git • Fedora Linux
 ⚽ Football • 🏀 Basketball • 🖥️ PC Hardware
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mann0801&show_icons=true)
+
