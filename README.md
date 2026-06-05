@@ -10,7 +10,6 @@ C • C++ • Python • Git • Fedora Linux
 ### What I do
 - Open-source contributions
 - Personal projects
-- DSA practice
 - AI experiments
 
 ### Outside coding
