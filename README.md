@@ -12,8 +12,7 @@ C • C++ • Python • Git • Fedora Linux
 - Personal projects
 - AI experiments
 
-### Outside coding
-⚽ Football • 🏀 Basketball • 🖥️ PC Hardware
+
 
 
 
