@@ -1,6 +1,6 @@
 # Hi, I'm Mann 👋
 
-I'm a CS student at PES University in Bengaluru. I build backends and automation, and I like working close to Linux. I care most about software that real people use every day.
+I'm a CS student at PES University in Bengaluru. I build backends,frontend and automation, and I like working close with linux. I care most about software that real people use every day.
 
 ## What I've built
 
